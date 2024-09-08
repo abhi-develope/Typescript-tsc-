@@ -15,7 +15,7 @@ function printId(id: NO) {
 printId(3);
 
 
-
+//-----------------------------
 
 function getFirstThree(x: string | number[]){
     return x.slice(0,3);
